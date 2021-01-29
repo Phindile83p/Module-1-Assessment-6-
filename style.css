@@ -1,0 +1,86 @@
+.gallery img{
+        width: 100%;
+}
+h2{
+    font-family: impact,inherit;
+    text-align: center;
+    font-size: 30px;
+    color: deepskyblue;
+    font-style:oblique;
+    
+}
+h3{
+    font-family: impact,inherit;
+    text-align: left;
+    font-size: 35px;
+    color: deepblue;
+    font-style: oblique;
+    
+}
+h4{ font-family: impact,inherit;
+    font-size: 20px;
+    color: deeblue;
+    font-style: oblique;
+
+}
+p{
+    font-family: Helvetica, fantasy;
+}
+#menu{
+      width: 100%;
+      height: 35px;
+      background-color: deepblue;
+      padding-top: 10px;
+}
+
+#menu a{
+      color:blue;
+      font-family: Helvetica, inherit;
+      font-size: 20px;
+      text-decoration:underline;
+      font-weight: 600px; 
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: black;
+}
+th {
+     font-weight: 600;
+     background-color: deeblue;
+     color           : blue;
+}
+table{
+     font-family : Helvetica, inherit;
+     border-collapse: collapse;
+     border-color: deepblue;
+     border-width   : px;
+     border-style   : solid;
+}
+h5 {  font-family: impact,inherit;
+    font-size: 20px;
+    color: black;
+    font-style:oblique;
+    
+}
+h5 {
+      background-image : url('images/menu-button.gif');
+      background-repeat: no-repeat;
+      display:block;
+      height:30px;
+      width:130px;
+      padding-left:20px
+
+}
+h5:hover{
+      background-image: url('images/menu-button-hover.gif');
+      color           : deepblue;
+}
+h6{ font-family: impact,inherit;
+    text-align: left;
+    font-size: 16px;
+    color: black;
+    font-style:oblique;
+    
+}
